@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Life Fitness</string>
+    <string name="strExercicios">Exercicíos</string>
+    <string name="strDieta">Dieta</string>
+    <string name="strCadastrarExercicios">Cadastrar Exercicios</string>
+    <string name="strCadastrarAlimentos">Cadastrar Alimentos</string>
+    <string name="strTitAct">Sua Saúde</string>
+    <string name="strRodape">Nada pode ser mais importante que sua Saúde!</string>
+    <string name="strTitCadAlimento">Cadastrar Alimento</string>
+    <string name="strTitCadExercicio">Cadastrar Exercicios</string>
+    <string name="strAlimentos">Alimentos</string>
+    <string name="strExerciciosList">Exercicios</string>
+    <string name="strBtSalvar">Salvar</string>
+    <string name="strNome">Nome</string>
+    <string name="strRepeticao">Repeticão</string>
+</resources>
